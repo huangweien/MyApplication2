@@ -2,7 +2,7 @@ package recording.android.me.com.myapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
+//试一下
 public class MainActivity extends AppCompatActivity {
 
     @Override
